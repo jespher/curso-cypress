@@ -1,0 +1,10 @@
+node_modules
+.vscode/*
+# commands.js
+# cypress/plugins/
+# cypress/support/
+# settings.json
+# example.json
+# cypress.json
+# package-lock.json
+# package.json
